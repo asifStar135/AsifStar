@@ -22,6 +22,10 @@ body{
 }
 
 /* **************************** utillities ******************************************/
+p, .hobby div, .active ul li
+{
+    font-family: 'Poppins', sans-serif !important;
+}
 
 :root{
     --deep: #2b2445;
