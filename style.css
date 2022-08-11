@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -20,6 +22,10 @@ body{
 }
 
 /* **************************** utillities ******************************************/
+p{
+    font-family: 'Poppins', sans-serif !important;
+}
+
 :root{
     --deep: #2b2445;
     --white: whitesmoke;
